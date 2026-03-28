@@ -1,4 +1,4 @@
-# Ukshati
+# ERP System
 
 ```markdown
 # Next.js + MySQL Docker Project
