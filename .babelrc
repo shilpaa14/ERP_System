@@ -1,0 +1,6 @@
+{
+  "presets": [
+    "next/babel", // This is essential for Next.js projects
+    "@babel/preset-react"
+  ]
+}
